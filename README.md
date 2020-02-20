@@ -13,3 +13,10 @@ lets start working on a new portfolio
 [ ] refactor using react
 [ ] add and keep up with a blog
 [ ] try more complicated animations using librarys
+
+# colors for later use
+
+dark purple #324e7b
+light purple #86a6df
+medium purple #5068a9
+off white #f8f8f8
