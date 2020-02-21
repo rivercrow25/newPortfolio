@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #4d3a4d;
+  color: #eadada;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a{
+  text-decoration: none;
+  color: #eadada;
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+  background-color: #352735;
+}
+
+.jumbotron img{
+width: 20vw;
+border-radius: 30%;
+}
+
+.card{
+  background-color: #352735;
+  width: 40%;
+  margin: 5% auto;
+  border: 2px black solid;
+  padding: 2% 0;
+}
+
+.card a{
+  display: flex;
+  justify-content: space-around;
+}
