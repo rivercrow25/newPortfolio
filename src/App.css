@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.tooltip{
+  background-color: #282c34;
+  padding: 1%;
+  border: 1px white solid;
+  border-radius: 10px;
+}
+
+#contactstyle{
+  text-align: center;
+}
+
+@media(max-width: 1275px){
+  #fix{
+    flex-direction: column;
+    text-align: left;
+  }
+}

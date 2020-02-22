@@ -10,7 +10,7 @@ const Project = (title, text1, text2, text3, text, github, link) => {
             <CardBody>
                 <CardTitle>{title}</CardTitle>
                 <CardSubtitle>
-                    <ul>
+                    <ul id='fix'>
                         <li>{text1}</li>
                         <li>{text2}</li>
                         <li>{text3}</li>
