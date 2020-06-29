@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from './components/nav'
+// import NavBar from './components/nav'
 import Header from './components/header'
 import Section from './components/sections'
 import Project from './components/projects'
